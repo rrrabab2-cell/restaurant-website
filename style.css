@@ -59,7 +59,7 @@ ul {
 
 header {
   height: 100vh;
-  background: url("./img/home_bg.jpeg") center center/cover no-repeat;
+  background: url("home_bg.jpeg") center center/cover no-repeat;
   position: relative;
 }
 
@@ -177,7 +177,7 @@ header * {
 
 #offers {
   height: 80vh;
-  background: url("./img/offer-background.jpg") center center/cover fixed;
+  background: url("offer-background.jpg") center center/cover fixed;
   display: flex;
   flex-direction: column;
   justify-content: center;
