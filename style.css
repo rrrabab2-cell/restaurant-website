@@ -304,7 +304,7 @@ header * {
 }
 
 #gallery {
-  background: url("./img/offer-background.jpg") center center/cover;
+  background: url("offer-background.jpg") center center/cover;
   padding: 8rem 0 6rem;
 }
 #gallery h2 {
